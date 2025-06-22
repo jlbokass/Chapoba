@@ -1,0 +1,14 @@
+# Node
+/frontend/node_modules/
+/frontend/dist/
+
+# Symfony
+/backend/var/
+/backend/vendor/
+/backend/.env.local
+
+# Environment & Editor settings
+.env
+.vscode/
+.idea/
+.DS_Store
