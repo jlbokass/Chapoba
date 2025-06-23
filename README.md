@@ -4,6 +4,12 @@
 
 ---
 
+## 📚 Project Documentation
+
+- [Git Workflow](./docs/Git_Workflow.md)
+- [Contributing Guide](./CONTRIBUTING.md)
+
+
 ## 🧩 Project Structure
 
 This monorepo includes both the frontend (Vite) and the backend (Symfony) projects.
